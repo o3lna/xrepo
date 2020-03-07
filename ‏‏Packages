@@ -1,0 +1,14 @@
+Package: com.nrkvv.glocation
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Beed
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0) 
+Conflicts: 
+Filename: debs/com.nrkvv.glocation_0.1.0_iphoneos-arm.deb
+Size: 90828
+MD5sum: ec49387f939d63060569ecd222d6692c
+SHA1: 4ccd39c7ea1c4c369779355273d6391d28a40b4d
+SHA256: 4fcb2975d13ec120dd90ef00a754089ef1e0155faadb00f3643903d79f3e5828
+Section: Tweaks
+Depiction: https://o3lna.github.io/repo/
+Name: gLocation +
